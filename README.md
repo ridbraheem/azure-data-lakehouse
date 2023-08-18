@@ -7,7 +7,7 @@ In this project, we built a Data LakeHouse using Databricks and Azure Data Lake.
 - Implemented Data Governance and Data Security with Unity Catalog and Azure Key Vault
 - Extracted Valuable Keywords from our data for further enrichment using Langchain and Open AI’s API
 
-- To learn more about this project, here is a link to the blog post I wrote in detail
+To learn more about this project, here is a link to the blog post I wrote in detail
 https://medium.com/@ridwanibraheem1/designing-and-implementing-secure-data-lakehouse-architecture-on-azure-leveraging-databricks-and-42f314ef8b6a
 
 ## Architecture Diagram 
